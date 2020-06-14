@@ -6,6 +6,7 @@ Overide all default classnames
 npm i twovc
 
 ```
+Check [CodeSandbox demo here](https://codesandbox.io/s/determined-mountain-cjlxu?file=/src/App.js)
 
 ```js
 import twovc from "twovc";
